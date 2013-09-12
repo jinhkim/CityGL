@@ -1,0 +1,40 @@
+#city name
+univercity
+
+#number of models
+16
+
+#outer circle
+../../../../../CODING/OpenGL/EECE478_2012_Models/Barn/Barn.model 	0.6	0.6	0.6	0.0	0.0	0.0	0.0	0.0	0.0	92.4	0.0	38.3
+../../../../../CODING/OpenGL/EECE478_2012_Models/AbdulLadhaCentre/AbdulLadhaCentre.model 	0.5	0.5	0.5	0.0	0.0	0.0	0.0	0.0	0.0	70.7	0.0	70.7
+../../../../../CODING/OpenGL/EECE478_2012_Models/AsianCentre/AsianCentre.model	0.3	0.3	0.3	-90.0	0.0	0.0	0.0	0.0	0.0	38.3	0.0	92.4
+../../../../../CODING/OpenGL/EECE478_2012_Models/BiomedicalResearchCentre/BiomedicalResearchCentre.model	0.3	0.3	0.3	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	100.0
+../../../../../CODING/OpenGL/EECE478_2012_Models/BuchananTower/BuchananTower.model 	0.25	0.25	0.25	0.0	0.0	0.0	0.0	0.0	0.0	-38.3	0.0	92.4
+../../../../../CODING/OpenGL/EECE478_2012_Models/ClockTower/ClockTower.model	1.5	1.5	1.5	-90.0	0.0	0.0	0.0	0.0	0.0	-70.7	0.0	70.7
+../../../../../CODING/OpenGL/EECE478_2012_Models/CheezeFactory/CheezeFactory.model	1.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	-92.4	0.0	38.3
+../../../../../CODING/OpenGL/EECE478_2012_Models/ChemistryPhysics/ChemistryPhysics.model	0.4	0.4	0.4	-90.0	0.0	0.0	0.0	0.0	0.0	-100.0	0.0	0.0
+../../../../../CODING/OpenGL/EECE478_2012_Models/GageTower/GageTower.model	1.0	1.0	1.0	0.0	0.0	0.0	0.0	0.0	0.0	-92.4	0.0	-38.3
+../../../../../CODING/OpenGL/EECE478_2012_Models/Geography/Geography.model	1.4	1.4	1.4	0.0	0.0	0.0	0.0	0.0	0.0	-70.7	0.0	-70.7
+../../../../../CODING/OpenGL/EECE478_2012_Models/FrankForward/FrankForward.model	0.5	0.5	0.5	-90.0	0.0	0.0	0.0	0.0	0.0	-38.3	0.0	-92.4
+../../../../../CODING/OpenGL/EECE478_2012_Models/Hennings/Hennings.model	0.5	0.5	0.5	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	-100.0
+../../../../../CODING/OpenGL/EECE478_2012_Models/ICICS/ICICS.model	0.1	0.1	0.1	0.0	0.0	0.0	0.0	0.0	0.0	38.3	0.0	-92.4
+../../../../../CODING/OpenGL/EECE478_2012_Models/ForestSciencesCentre/ForestSciencesCentre.model	0.5	0.5	0.5	0.0	0.0	0.0	0.0	0.0	0.0	70.7	0.0	-70.7
+../../../../../CODING/OpenGL/EECE478_2012_Models/EngineeringAnnex/EngineeringAnnex.model	0.5	0.5	0.5	0.0	0.0	0.0	0.0	0.0	0.0	92.4	0.0	-38.3
+../../../../../CODING/OpenGL/EECE478_2012_Models/OsbourneCentre/OsbourneCentre.model	0.15	0.15	0.15	0.0	0.0	0.0	0.0	0.0	0.0	100.0	0.0	0.0
+
+#inner circle
+../../../../../CODING/OpenGL/EECE478_2012_Models/LifeSciencesCentre/LifeSciencesCentre.model 0.2 0.2 0.2 0.0 0.0 0.0 0.0 0.0 0.0 50.0 0.0 0.0
+../../../../../CODING/OpenGL/EECE478_2012_Models/CecilGreenParkCoachHouse/CecilGreenParkCoachHouse.model 0.5 0.5 0.5 0.0 0.0 0.0 0.0 0.0 0.0 43.3 0.0 25.0
+../../../../../CODING/OpenGL/EECE478_2012_Models/ChanCentre/ChanCentre.model 2.5 2.5 2.5 -90.0 0.0 0.0 0.0 0.0 0.0 25.0 0.0 43.3
+../../../../../CODING/OpenGL/EECE478_2012_Models/CoalMineralProcessing/CoalMineralProcessing.model 0.3 0.3 0.3 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 50.0
+../../../../../CODING/OpenGL/EECE478_2012_Models/ContinuingStudies/ContinuingStudies.model 0.5 0.5 0.5 0.0 0.0 0.0 0.0 0.0 0.0 -25.0 0.0 43.3
+../../../../../CODING/OpenGL/EECE478_2012_Models/DavidStrangway/DavidStrangway.model 0.5 0.5 0.5 -90.0 0.0 0.0 0.0 0.0 0.0 -43.3 0.0 25.0
+../../../../../CODING/OpenGL/EECE478_2012_Models/DorothySomersetStudio/DorothySomersetStudio.model 0.5 0.5 0.5 0.0 0.0 0.0 0.0 0.0 0.0 -50.0 0.0 0.0
+../../../../../CODING/OpenGL/EECE478_2012_Models/Horticulture/Horticulture.model 1.0 1.0 1.0 0.0 0.0 0.0 0.0 0.0 0.0 -43.3 0.0 -25.0 
+../../../../../CODING/OpenGL/EECE478_2012_Models/JackBell/JackBell.model 0.01 0.01 0.01 0.0 0.0 0.0 0.0 0.0 0.0 -25.0 0.0 -43.3
+../../../../../CODING/OpenGL/EECE478_2012_Models/MarineDriveCommonsBlock/MarineDriveCommonsBlock.model 0.2 0.2 0.2 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 -50.0
+../../../../../CODING/OpenGL/EECE478_2012_Models/MuseumOfAnthropology/MuseumOfAnthropology.model 0.2 0.2 0.2 0.0 0.0 0.0 0.0 0.0 0.0 25.0 0.0 -43.3
+../../../../../CODING/OpenGL/EECE478_2012_Models/PulpAndPaperCentre/PulpAndPaperCentre.model 1.0 1.0 1.0 0.0 0.0 0.0 0.0 0.0 0.0 43.3 0.0 -25.0 
+
+#centre
+#../../../../../CODING/OpenGL/EECE478_2012_Models/KoernerLibrary/KoernerLibrary.model 	0.08	0.08	0.08	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
